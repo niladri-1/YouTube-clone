@@ -1,5 +1,7 @@
 # YouTube Clone Website
 
+![Website Screenshot](https://github.com/niladri-1/YouTube-Clone-Website/blob/main/Demo.png)
+
 ## Description
 
 This project is a clone of the popular video-sharing platform YouTube. It offers users the ability to view, upload, and interact with videos in a familiar and user-friendly environment.
